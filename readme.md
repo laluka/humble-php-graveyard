@@ -49,3 +49,14 @@ drwxr-xr-x    - lalu 15 juin  19:35 src
 .rw-r--r-- 171k lalu 15 juin  19:29 └── osk.png
 .rw-r--r--  619 lalu 15 juin  19:48 readme.md
 ```
+
+## Advanced
+
+Multi-step challenges inspired by real-world vulnerabilities. Each builds on the previous one.
+
+```
+drwxr-xr-x    - lalu  9 avr  13:32 src
+.rw-r--r--  2.0k lalu  9 avr  13:39 ├── 25_auth_bypass.php
+.rw-r--r--  3.4k lalu  9 avr  14:01 ├── 26_ssti_di.php
+.rw-r--r--  3.9k lalu  9 avr  14:00 └── 27_cache_poison.php
+```
